@@ -1,0 +1,23 @@
+{
+  "repo": "fonepaw-ultimate",
+  "product": "FonePaw Ultimate",
+  "kind": "recovery",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "iphone-recovery",
+  "topics": [
+    "fonepaw-iphone",
+    "deleted-scan-types",
+    "whatsapp-export-desk",
+    "fonepaw-windows",
+    "iphone-restore-2026",
+    "how-to-install-fonepaw",
+    "fonepaw-desktop-package",
+    "note-photo-suite",
+    "backup-scan-tools",
+    "fonepaw-ultimate"
+  ],
+  "site": "toolix.me"
+}
